@@ -13,23 +13,6 @@ What You'll Learn:
 - Fetching data from the backend using React Query
 - Managing application state and UI with Next.js
 
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/06/Build-a-Full-Stack-To-Do-List-App-with-Rust-Backend-and-Next.js-Frontend-Rust-Project.jpg)
-
-## Instruction
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-a-full-stack-to-do-list-app-with-rust-backend-and-next.js-frontend)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/hLu-YGQ5Eas)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
 
 #### Install Vs Code Editor
 
