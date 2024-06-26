@@ -92,11 +92,6 @@ Kindly follow the following Instructions to run the project in your system and i
       chrono = { version = "0.4", features = ["serde"] }
 ```
 
-#### Clone Starter File
-
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
-```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
@@ -110,20 +105,4 @@ If you download the final source code then you can follow the following instruct
   WATCH: Setup & Demo Of Project
 ```
 
-#### Final Source Code
 
-```https://www.theblockchaincoders.com/SourceCode
-  Download the Final Source Code
-```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
